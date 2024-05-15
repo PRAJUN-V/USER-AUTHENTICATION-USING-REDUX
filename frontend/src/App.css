@@ -1,0 +1,179 @@
+.login-box {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 400px;
+  margin: auto;
+}
+
+.signup-box {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.signup-box h2 {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+
+.welcome-box {
+  padding-top: 30px;
+  padding: 50px; /* Padding */
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Shadow */
+  max-width: 500px; /* Max width */
+  margin: auto; /* Centering */
+}
+
+.welcome-box h1 {
+  margin-bottom: 20px; /* Margin below the heading */
+}
+
+/* Gradient background */
+.welcome-box {
+  background: linear-gradient(to right, #522e055b, #e52e71); /* Gradient background */
+  color: #fff; /* Text color */
+}
+
+
+
+.form-container {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-container input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.form-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.form-container button:hover {
+  background-color: #0056b3;
+}
+
+.edit-profile-box {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.edit-profile-box h1 {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* Add custom styling for file input */
+.input-file {
+  margin-top: 10px;
+}
+
+.input-file label {
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.input-file input[type="file"] {
+  display: none;
+}
+
+.input-file span {
+  vertical-align: middle;
+}
+
+.selected-image {
+  display: block;
+  margin-top: 10px;
+  width: 100px;
+  height: auto;
+}
+

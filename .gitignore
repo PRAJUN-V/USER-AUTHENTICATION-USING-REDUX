@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore local settings file
+backend/settings/local.py
+
+# Ignore frontend build files (if applicable)
+frontend/build/
+
+# Ignore database file (if applicable)
+db.sqlite3
